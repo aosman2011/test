@@ -6,6 +6,4 @@ FavorouteDinosaurs.push("Lastasarus")
 FavorouteDinosaurs.reverse()
 FavorouteDinosaurs.push("Firstasaurus")
 FavorouteDinosaurs.reverse()
-console.log(FavorouteDinosaurs)
-
-console.log("GoodMorningGoodEVeningAndGoodnight")
+console.log(FavorouteDinosaurs.join (" And "));
